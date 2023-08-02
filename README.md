@@ -5,11 +5,11 @@ Bu çalışmada MsSQL üzerinde örnek bir veritabanı tasarladım. Tasarımı y
 İlk olarak Persons adında kişi bilgilerini tutabileceğim bir tabloyla başladım. Bu tabloda bütün bireylerde ortk olarak bulunan isim,soyisim, kimlik no, doğum tarihi gibi bilgileri tutmayı amaçladım. Devamında Students ve Teachers tabloları oluşturarak Persons tablosu ile bire bir ilişki kurarak bir nevi bu tabloları Persons tablosundan miras aldım.
 
 
-![Persons](file:///C:/Users/akinc/Pictures/Screenshots/Persons.png)
+![Persons](Persons.png)
 
-![Teachers](file:///C:/Users/akinc/Pictures/Screenshots/Teachers.png)
+![Teachers](Teachers.png)
 
-![Students](file:///C:/Users/akinc/Pictures/Screenshots/Students.png)
+![Students](Students.png)
 
 >Tablo Yapıları yukarıda gösterilmiştir.
 
@@ -48,7 +48,7 @@ end
 ```
 >Örnek procedure sorgusu
 
-Son olarak kurulan ilişkilerden sonra tablo diagramı![Diagram](file:///C:/Users/akinc/Pictures/Screenshots/sql-odev.png)
+Son olarak kurulan ilişkilerden sonra tablo diagramı![Diagram](sql-odev.png)
 
 >Veritabanına ait diagram
 
